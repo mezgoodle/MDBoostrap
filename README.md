@@ -1,26 +1,24 @@
+# Hello
+Hi everyone! Once upon a time I found **Material Design** for **Bootstrap**, and it's **awesome**. So I 've tried to make HTML-page with all elements of this library. You can see the result [here](https://mezgoodle.github.io/MDBoostrap/).
+
 # MDBoostrap
 Material Design for Bootstrap
 
 Version: MDB Free 4.8.2
 
-Documentation:
-https://mdbootstrap.com/
+* [Documentation](https://mdbootstrap.com/)
 
-Getting started:
-https://mdbootstrap.com/docs/jquery/getting-started/download/
+* [Getting started](https://mdbootstrap.com/docs/jquery/getting-started/download/)
 
-Tutorials:
-MDB-Bootstrap: https://mdbootstrap.com/education/bootstrap/
-MDB-Wordpress: https://mdbootstrap.com/education/wordpress/
+* [Tutorial](MDB-Bootstrap: https://mdbootstrap.com/education/bootstrap/)
 
-Templates:
-https://mdbootstrap.com/templates/
+* [MDB-Wordpress](https://mdbootstrap.com/education/wordpress/)
 
-License:
-https://mdbootstrap.com/general/license/
+* [Templates](https://mdbootstrap.com/templates/)
 
-Support:
-https://mdbootstrap.com/forums/forum/support/
+* [License](https://mdbootstrap.com/general/license/)
+
+* [Support](https://mdbootstrap.com/forums/forum/support/)
 
 Contact:
 office@mdbootstrap.com
